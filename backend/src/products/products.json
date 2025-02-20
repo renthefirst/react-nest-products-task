@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Apple iPhone 13",
+    "description": "The latest iPhone with A15 Bionic chip, 5G capability, and improved camera system.",
+    "price": 999.99,
+    "discountedPrice": 899.99,
+    "partNumber": "IPH13",
+    "imageUrl": "/uploads/61CGRxr55fL.jpg"
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "description": "High-end smartphone with Exynos 2100, 5G, and a versatile camera setup.",
+    "price": 799.99,
+    "discountedPrice": 699.99,
+    "partNumber": "SGS21",
+    "imageUrl": "/uploads/refurbished-samsung-galaxy-s21-fe-grijs.jpg"
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "description": "Industry-leading noise-canceling headphones with exceptional sound quality.",
+    "price": 349.99,
+    "discountedPrice": 299.99,
+    "partNumber": "WH1000XM4",
+    "imageUrl": "/uploads/baaf8c472fe4361e9ce0a12ef8b3bc61.jpg"
+  },
+  {
+    "name": "Dell XPS 13",
+    "description": "Compact and powerful laptop with Intel Core i7, 16GB RAM, and 512GB SSD.",
+    "price": 1299.99,
+    "discountedPrice": 1199.99,
+    "partNumber": "XPS13",
+    "imageUrl": "/uploads/dell-xps-13-plus-9320-1260p-1702994223.jpg"
+  },
+  {
+    "name": "Apple MacBook Pro",
+    "description": "High-performance laptop with M1 chip, 16GB RAM, and 1TB SSD.",
+    "price": 1999.99,
+    "discountedPrice": 1799.99,
+    "partNumber": "MBP2021",
+    "imageUrl": "/uploads/Apple_16-inch-MacBook-Pro_111319_big.jpg.large.jpg"
+  },
+  {
+    "name": "Bose QuietComfort 35 II",
+    "description": "Wireless noise-canceling headphones with Alexa voice control.",
+    "price": 299.99,
+    "discountedPrice": 249.99,
+    "partNumber": "QC35II",
+    "imageUrl": "/uploads/cq5dam.web.1280.1280.jpg"
+  },
+  {
+    "name": "Google Pixel 6",
+    "description": "Google's latest smartphone with Tensor chip, 5G, and advanced camera features.",
+    "price": 699.99,
+    "discountedPrice": 649.99,
+    "partNumber": "PIXEL6",
+    "imageUrl": "/uploads/51IOgjuH61L.jpg"
+  },
+  {
+    "name": "Microsoft Surface Pro 7",
+    "description": "Versatile 2-in-1 laptop with Intel Core i5, 8GB RAM, and 256GB SSD.",
+    "price": 899.99,
+    "discountedPrice": 849.99,
+    "partNumber": "SURFACEPRO7",
+    "imageUrl": "/uploads/microsoft-surface-pro-7-1035g4-1657711129.jpg"
+  },
+  {
+    "name": "Canon EOS R5",
+    "description": "Professional mirrorless camera with 45MP sensor and 8K video recording.",
+    "price": 3899.99,
+    "discountedPrice": 3599.99,
+    "partNumber": "EOSR5",
+    "imageUrl": "/uploads/camera-met-lens-en-zonnekap.jpg"
+  },
+  {
+    "name": "Nintendo Switch",
+    "description": "Popular gaming console with versatile play modes and a wide range of games.",
+    "price": 299.99,
+    "discountedPrice": 279.99,
+    "partNumber": "SWITCH",
+    "imageUrl": "/uploads/nintendo-switch-1598515028.jpg"
+  },
+  {
+    "name": "HP Spectre x360",
+    "description": "Convertible laptop with Intel Core i7, 16GB RAM, and 512GB SSD.",
+    "price": 1399.99,
+    "discountedPrice": 1299.99,
+    "partNumber": "SPECTREX360",
+    "imageUrl": "/uploads/818tjkTJM1L.jpg"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "description": "Next-gen gaming console with ultra-high-speed SSD and 3D audio.",
+    "price": 499.99,
+    "discountedPrice": 449.99,
+    "partNumber": "PS5",
+    "imageUrl": "/uploads/PS5-normaal.jpg"
+  },
+  {
+    "name": "Apple Watch Series 7",
+    "description": "Smartwatch with larger display, faster charging, and new health features.",
+    "price": 399.99,
+    "discountedPrice": 349.99,
+    "partNumber": "AW7",
+    "imageUrl": "/uploads/715oKiGTrjL.jpg"
+  },
+  {
+    "name": "Amazon Echo Dot",
+    "description": "Smart speaker with Alexa voice assistant and improved sound quality.",
+    "price": 49.99,
+    "discountedPrice": 39.99,
+    "partNumber": "ECHODOT",
+    "imageUrl": "/uploads/71C3lbbeLsL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Fitbit Charge 5",
+    "description": "Advanced fitness tracker with built-in GPS and health metrics.",
+    "price": 179.99,
+    "discountedPrice": 159.99,
+    "partNumber": "CHARGE5",
+    "imageUrl": "/uploads/51YjNQZ0RDL.jpg"
+  },
+  {
+    "name": "GoPro HERO10",
+    "description": "Action camera with 5.3K video, HyperSmooth 4.0, and waterproof design.",
+    "price": 499.99,
+    "discountedPrice": 449.99,
+    "partNumber": "HERO10",
+    "imageUrl": "/uploads/GoPro_News_HERO10_Black.jpg"
+  },
+  {
+    "name": "JBL Flip 5",
+    "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+    "price": 119.99,
+    "discountedPrice": 99.99,
+    "partNumber": "FLIP5",
+    "imageUrl": "/uploads/Flip-5-16.jpg"
+  },
+  {
+    "name": "Razer Blade 15",
+    "description": "Gaming laptop with Intel Core i7, NVIDIA RTX 3070, and 16GB RAM.",
+    "price": 2499.99,
+    "discountedPrice": 2299.99,
+    "partNumber": "BLADE15",
+    "imageUrl": "/uploads/Razer_Blade_15.jpg"
+  },
+  {
+    "name": "Apple AirPods Pro",
+    "description": "Wireless earbuds with active noise cancellation and transparency mode.",
+    "price": 249.99,
+    "discountedPrice": 199.99,
+    "partNumber": "AIRPODSPRO",
+    "imageUrl": "/uploads/airpods-pro-2.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Tab S7",
+    "description": "High-performance tablet with 11-inch display, S Pen, and 128GB storage.",
+    "price": 649.99,
+    "discountedPrice": 599.99,
+    "partNumber": "TABS7",
+    "imageUrl": "/uploads/samsung1.jpg"
+  },
+  {
+    "name": "DJI Mavic Air 2",
+    "description": "Compact drone with 4K camera, 34-minute flight time, and obstacle avoidance.",
+    "price": 799.99,
+    "discountedPrice": 749.99,
+    "partNumber": "MAVICAIR2",
+    "imageUrl": "/uploads/dji_mavic_air_2_1.jpg"
+  }
+]
