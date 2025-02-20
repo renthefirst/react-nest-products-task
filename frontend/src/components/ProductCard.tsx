@@ -40,7 +40,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, onDelete }) => {
       <Flex justify="center" align="center" p={4}>
         <Box w="220px" position="relative">
           <Image
-            src={'http://localhost:3000' + product.imageUrl}
+            src={import.meta.env.VITE_API_URL + product.imageUrl}
             alt={product.name}
             width="220px"
             height="220px"

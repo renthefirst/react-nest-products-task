@@ -14,7 +14,6 @@ import {
 import {
   DialogBody,
   DialogContent,
-  DialogFooter,
   DialogRoot,
 } from '@/components/ui/dialog';
 import EditProductForm from '../components/EditProductForm';
@@ -60,7 +59,7 @@ const ProductPage: React.FC = () => {
     >
       <Stack>
         <Image
-          src={'http://localhost:3000' + product.imageUrl}
+          src={import.meta.env.VITE_API_URL + product.imageUrl}
           alt={product.name}
           borderRadius="lg"
           objectFit="cover"

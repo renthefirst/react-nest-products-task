@@ -14,17 +14,7 @@ import {
 import { useState, useEffect, useCallback } from 'react';
 import { IProduct } from '@/types/Product';
 import { GrFormNext, GrFormPrevious } from 'react-icons/gr';
-
-function useDebounce<T>(value: T, delay: number): T {
-  const [debouncedValue, setDebouncedValue] = useState(value);
-
-  useEffect(() => {
-    const handler = setTimeout(() => setDebouncedValue(value), delay);
-    return () => clearTimeout(handler);
-  }, [value, delay]);
-
-  return debouncedValue;
-}
+import useDebounce from '@/hooks/useDebounce';
 
 const ProductCatalogPage: React.FC = () => {
   const [currentPage, setCurrentPage] = useState(1);
